@@ -1,1 +1,5 @@
-# Temperature and Humidity detection with DHT22 sendor
+# Temperature and Humidity detection with DHT22 sensor
+
+## Goal
+
+Measure and report Temperature and Humidity
